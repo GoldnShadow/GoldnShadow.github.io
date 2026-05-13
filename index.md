@@ -11,6 +11,7 @@
 * **Languages:** Python (Pandas, NumPy, yFinance), Java, C, R (Plotly), SQL (PostgreSQL, MySQL), JavaScript (Node.js, React), Brightscript.
 * **Tools & Platforms:** Docker, AWS (CodeBuild/Deploy), Git, VMWare, VSCode, PyCharm.
 * **Testing & Workflow:** Postman, JUnit, Thunder Client, JIRA, Shell Scripting, Agile Methodologies.
+* **Quantitative Finance:** CAPM, Fama-French 3-Factor, MPT Efficient Frontier, Risk-Adjusted Ratios (Sharpe/Sortino).
 
 ## Experience
 
@@ -58,3 +59,38 @@
 * Applied `tidyverse` for rigorous data cleaning and outlier removal to ensure statistical integrity of financial ratios.
 * [View Repository](https://github.com/GoldnShadow/S-P500Dashboard)
 
+### HackFax x Patriothacks CTF | Developer & Lead Tester
+**JavaScript | Web Security | OSINT | Docker**
+* [cite_start]Spearheaded the development of full-stack "Capture the Flag" (CTF) challenges, ranging from entry-level to advanced difficulty, focused on **web-based attack platforms**. 
+* [cite_start]Designed and engineered a **complex Joint Webattack/OSINT challenge**, leading a cross-functional team to integrate multiple security disciplines into a single objective. 
+* [cite_start]Conducted rigorous testing and troubleshooting of challenge environments to ensure stability and security during high-traffic competitive events. 
+* [cite_start]Facilitated live technical walkthroughs and judging for over 100 participants, providing deep-dive explanations of exploit vectors and remediation strategies. 
+* [View Event Details](https://github.com/GoldnShadow/) There will be four repositories available for each challenge.
+
+### PERN Stack CRUD API
+**Node.js | Express | PostgreSQL | Docker | Joi (Validation)**
+* Developed a robust RESTful API using the **PERN stack** (PostgreSQL, Express, React, Node) to manage user data with full Create, Read, Update, and Delete (CRUD) functionality.
+* Architected a modular codebase following the **Controller-Service-Model** pattern, ensuring a clean separation of concerns between HTTP logic, business services, and database queries.
+* Implemented strict input validation and data integrity using **Joi** and centralized error-handling middleware to improve API reliability and security.
+* Engineered a database abstraction layer using `pg` connection pooling and automated table creation scripts to streamline local development and deployment.
+* Validated system performance and endpoint reliability using **Postman**, **Docker**, and **Thunder Client** for comprehensive integration testing.
+* [View Repository](https://github.com/GoldnShadow/PERN-CRUD-API)
+
+### Automated Portfolio Data Pipeline
+**Python | Pandas | yFinance | Logging**
+* Engineered a lightweight data retrieval engine to perform periodic time-series sampling of asset prices via the Yahoo Finance API.
+* Developed a persistent storage system that automates the aggregation of live market data into a structured CSV format for downstream quantitative analysis.
+* Implemented a robust logging architecture to track script telemetry, execution timestamps, and API connection status in real-time.
+* Designed the script for continuous deployment, utilizing infinite polling loops and exception-aware logic to maintain high data-collection uptime.
+* [View Repository](https://github.com/GoldnShadow/PortfolioVisualization)
+
+## Live Applications
+* [**ETF Analytics Dashboard**](https://etf-dashboard-stream.streamlit.app/) – Live quantitative analysis of 34 ETFs.
+
+
+## Contact Info
+I am currently seeking internship opportunities or full-time positions in Software Engineering, Quantitative Analysis, AI/ML Development, Data Engineering/Manipulation, Cybersecurity, Information Technology, 
+
+📫 **Email:** [aditreddya@gmail.com](mailto:aditreddya@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/aditreddy](https://www.linkedin.com/in/adit-reddy-5214672b1/)  
+💻 **GitHub:** [github.com/GoldnShadow](https://github.com/GoldnShadow)
