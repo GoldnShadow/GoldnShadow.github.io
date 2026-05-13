@@ -2,14 +2,24 @@
 📍 Stone Ridge, VA | 📧 [aditreddya@gmail.com](mailto:aditreddya@gmail.com) | 📞 (571) 444-3144
 [LinkedIn](https://www.linkedin.com/in/adit-reddy-5214672b1) | [GitHub](https://github.com/GoldnShadow) | [Download PDF Resume](./Adit-Reddy_Resume_Final-Draft.pdf)
 
+## General Summary:
+I am a **hands-on learner** and a **versatile developer** with a drive for creating **structured**, **optimized**, and highly organized **technical solutions**. I pride myself on being a **"jack of all trades"** who is quick to master new technologies, from full-stack web development to quantitative financial modeling, to even **cloud development** and **fine-tuning AI models**. My approach is defined by a rigorous attention to detail and a commitment to efficient, clean, and primarily useful code.
+
+Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast with deep interests in **aerospace/aircraft**, **automotive engineering**, **competitive chess**, and more. These hobbies fuel my problem-solving mindset and my ability to analyze complex systems from multiple perspectives.
+
+## Core Competencies
+* **Productivity:** Expert proficiency in the **Google Workspace** and **Microsoft Office 365** suites for professional documentation and data management. Effective utiliser of Artificial Intelligence in an efficient environment. 
+* **Soft Skills:** Driven by initiative, team-oriented, and highly adaptable to fast-paced technical environments. 
+* **Versatility:** Capable of pivoting between data science (R), backend engineering (Node.js), and automated financial scripting (Python).
+
 ## Education
 **George Mason University** | Fairfax, Virginia
 *B.S. in Computer Science* | Expected May 2027
 * **Relevant Coursework:** Data Structures, Object-Oriented Programming (Java), C & Unix, Python, Statistics for Engineers, MySQL/SQL, and Data Sciences (R).
 
 ## Technical Skills
-* **Languages:** Python (Pandas, NumPy, yFinance), Java, C, R (Plotly), SQL (PostgreSQL, MySQL), JavaScript (Node.js, React), Brightscript.
-* **Tools & Platforms:** Docker, AWS (CodeBuild/Deploy), Git, VMWare, VSCode, PyCharm.
+* **Languages:** Python (Pandas, NumPy, yFinance), Java, C, R (Plotly, ggplot, imvar, modelr, broom), SQL (PostgreSQL, MySQL), JavaScript (Node.js, React), Brightscript.
+* **Tools & Platforms:** Docker, AWS (CodeBuild/Deploy), Git, VMWare, VSCode, PyCharm, VSCode.
 * **Testing & Workflow:** Postman, JUnit, Thunder Client, JIRA, Shell Scripting, Agile Methodologies.
 * **Quantitative Finance:** CAPM, Fama-French 3-Factor, MPT Efficient Frontier, Risk-Adjusted Ratios (Sharpe/Sortino).
 
