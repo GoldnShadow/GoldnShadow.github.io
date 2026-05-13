@@ -5,24 +5,24 @@
 ## Education
 **George Mason University** | Fairfax, Virginia
 *B.S. in Computer Science* | Expected May 2027
-* [cite_start]**Relevant Coursework:** Data Structures, Object-Oriented Programming (Java), C & Unix, Python, Statistics for Engineers, MySQL/SQL, and Data Sciences (R). [cite: 5, 6]
+* **Relevant Coursework:** Data Structures, Object-Oriented Programming (Java), C & Unix, Python, Statistics for Engineers, MySQL/SQL, and Data Sciences (R).
 
 ## Technical Skills
-* [cite_start]**Languages:** Python (Pandas, NumPy, yFinance), Java, C, R (Plotly), SQL (PostgreSQL, MySQL), JavaScript (Node.js, React), Brightscript. [cite: 8]
-* [cite_start]**Tools & Platforms:** Docker, AWS (CodeBuild/Deploy), Git, VMWare, VSCode, PyCharm. [cite: 9]
-* [cite_start]**Testing & Workflow:** Postman, JUnit, Thunder Client, JIRA, Shell Scripting, Agile Methodologies. [cite: 10, 11, 15]
+* **Languages:** Python (Pandas, NumPy, yFinance), Java, C, R (Plotly), SQL (PostgreSQL, MySQL), JavaScript (Node.js, React), Brightscript.
+* **Tools & Platforms:** Docker, AWS (CodeBuild/Deploy), Git, VMWare, VSCode, PyCharm.
+* **Testing & Workflow:** Postman, JUnit, Thunder Client, JIRA, Shell Scripting, Agile Methodologies.
 
 ## Experience
 
 ### AVCA | Office Intern
-[cite_start]*August 2024 – September 2024* [cite: 13]
-* [cite_start]**Automation:** Engineered Python scripts to digitize 30% of company archives and automate reporting, resulting in a 15% increase in departmental productivity. [cite: 14]
-* [cite_start]**Optimization:** Reduced survey processing time by 200% through automated keyword indexing and streamlined operations by implementing new communication infrastructure. [cite: 15]
+*August 2024 – September 2024*
+* **Automation:** Engineered Python scripts to digitize 30% of company archives and automate reporting, resulting in a 15% increase in departmental productivity.
+* **Optimization:** Reduced survey processing time by 200% through automated keyword indexing and streamlined operations by implementing new communication infrastructure.
 
 ### Mathnasium LLC | Instructor
-[cite_start]*September 2023 – November 2024* [cite: 16]
-* [cite_start]**Instruction & Management:** Responsible for instructing students, managing academic paperwork, and coordinating scheduling/grading in an organized workspace. [cite: 17]
+*September 2023 – November 2024*
+* **Instruction & Management:** Responsible for instructing students, managing academic paperwork, and coordinating scheduling/grading in an organized workspace.
 
 ## Honors & Volunteerism
-* [cite_start]**HackFax x Patriothacks CTF:** Developer, Tester, and Volunteer for Capture the Flag challenges (Dec 2025 – Feb 2026). [cite: 26]
-* [cite_start]**Citizenship:** United States Born Citizen. [cite: 4]
+* **HackFax x Patriothacks CTF:** Developer, Tester, and Volunteer for Capture the Flag challenges (Dec 2025 – Feb 2026).
+* **Citizenship:** United States Citizen.
