@@ -71,10 +71,10 @@ Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast 
 
 ### HackFax x Patriothacks CTF | Developer & Lead Tester
 **JavaScript | Web Security | OSINT | Docker**
-* [cite_start]Spearheaded the development of full-stack "Capture the Flag" (CTF) challenges, ranging from entry-level to advanced difficulty, focused on **web-based attack platforms**. 
-* [cite_start]Designed and engineered a **complex Joint Webattack/OSINT challenge**, leading a cross-functional team to integrate multiple security disciplines into a single objective. 
-* [cite_start]Conducted rigorous testing and troubleshooting of challenge environments to ensure stability and security during high-traffic competitive events. 
-* [cite_start]Facilitated live technical walkthroughs and judging for over 100 participants, providing deep-dive explanations of exploit vectors and remediation strategies. 
+* Spearheaded the development of full-stack "Capture the Flag" (CTF) challenges, ranging from entry-level to advanced difficulty, focused on **web-based attack platforms**. 
+* Designed and engineered a **complex Joint Webattack/OSINT challenge**, leading a cross-functional team to integrate multiple security disciplines into a single objective. 
+* Conducted rigorous testing and troubleshooting of challenge environments to ensure stability and security during high-traffic competitive events. 
+* Facilitated live technical walkthroughs and judging for over 100 participants, providing deep-dive explanations of exploit vectors and remediation strategies. 
 * [View Event Details](https://github.com/GoldnShadow/) There will be four repositories available for each challenge.
 
 ### PERN Stack CRUD API
