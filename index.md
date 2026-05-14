@@ -49,7 +49,7 @@ Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast 
 * Engineered a chunk-based data processing pipeline using `yfinance` to bypass rate limits and optimize the download of historical OHLC data.
 * Integrated an automated reporting system via **SMTP/MIMEMultipart** that generates and emails dynamic HTML heatmaps of overbought/oversold signals.
 * Implemented defensive programming including environment-based secret management and error-handling for ticker symbol inconsistencies.
-* [View Repository]: As personal information is included in the source code for this project, I will not be allowing public view for this repository.
+* As personal information is included in the source code for this project, I will not be allowing public view for this repository.
 * If you still wish to see the code, I can provide an information-free alternative that requires the user to add their own Environment Passwords.
 
 ### ETF Quantitative Analysis Dashboard
