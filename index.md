@@ -2,6 +2,10 @@
 📍 Stone Ridge, VA | 📧 [aditreddya@gmail.com](mailto:aditreddya@gmail.com) | 📞 (571) 444-3144
 [LinkedIn](https://www.linkedin.com/in/adit-reddy-5214672b1) | [GitHub](https://github.com/GoldnShadow) | [Download PDF Resume](./Adit-Reddy_Resume_Final-Draft%20(2).pdf)
 
+## Certifications:
+* **AI Fluency:** Anthropic's AI Fluency Certification. 
+* **Claude 101:** Anthropic's Claude 101 Certification.
+
 ## General Summary:
 I am an American-born, **hands-on learner** and a **versatile developer** with a drive for creating **structured**, **optimized**, and highly organized **technical solutions**. I pride myself on being someone who is quick to master new technologies, from full-stack web development to quantitative financial modeling, to even **cloud development** and **fine-tuning AI models**. My approach is defined by a rigorous attention to detail and a commitment to efficient, clean, and primarily useful code.
 
