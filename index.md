@@ -142,6 +142,7 @@ Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast 
 
 ## Live Applications
 * [**ETF Analytics Dashboard**](https://etf-dashboard-stream.streamlit.app/) – Live quantitative analysis of 34 ETFs.
+* [**Squad Chat**](https://squad-chat-production.up.railway.app/) - Full Web Application.
 
 
 ## Contact Info
