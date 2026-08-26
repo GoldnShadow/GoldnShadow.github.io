@@ -119,7 +119,7 @@ Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast 
 * Built a full-stack chess game notation application replicating a physical score sheet, featuring a 99-move grid with real-time **SAN (Standard Algebraic Notation) validation** powered by chess.js — invalid moves are rejected before they can be recorded.
 * Engineered a **REST API** with Express and TypeScript, implementing JWT-based authentication, bcrypt password hashing, and zod input validation for all endpoints.
 * Designed a PostgreSQL schema storing game metadata and moves as **JSONB**, enabling efficient retrieval and user-scoped game history.
-* Deployed as a native **Android mobile app** using Capacitor, wrapping the Vite/React build with a native shell and configuring Android network security for local API communication.
+* Planning to deploy as a native **Android mobile app** using Capacitor, wrapping the Vite/React build with a native shell and configuring Android network security for local API communication.
 * [View Repository](https://github.com/GoldnShadow/chess-notation-app)
 
 ### Medical Reddit Sentiment ETL Pipeline
