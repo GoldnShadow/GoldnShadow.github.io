@@ -113,6 +113,7 @@ Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast 
 * Architected a lightweight backend using **SQLite (better-sqlite3)** with no external database dependency, keeping the stack fully self-contained and portable.
 * Hardened the API with **rate limiting** and HTTP security headers (Helmet) to mitigate abuse and common web vulnerabilities.
 * [View Repository](https://github.com/GoldnShadow/squad-chat)
+* Currently unavailable due to expired Railway subscription.
 
 ### Chess Notation App
 **React | TypeScript | Express | PostgreSQL | Capacitor | chess.js | Tailwind CSS**
@@ -142,7 +143,7 @@ Beyond the terminal, I am a strategic thinker and multi-disciplinary enthusiast 
 
 ## Live Applications
 * [**ETF Analytics Dashboard**](https://etf-dashboard-stream.streamlit.app/) – Live quantitative analysis of 34 ETFs.
-* [**Squad Chat**](https://squad-chat-production.up.railway.app/) - Full Web Application.
+* [**Squad Chat**](https://squad-chat-production.up.railway.app/) - Full Web Application. (Currently unavailable)
 
 
 ## Contact Info
